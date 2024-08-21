@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AL3_game_01", "AL3_game_01.vcxproj", "{739B8B35-BE8B-473A-A991-182B5290F5C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739B8B35-BE8B-473A-A991-182B5290F5C2}.Debug|x64.ActiveCfg = Debug|x64
+		{739B8B35-BE8B-473A-A991-182B5290F5C2}.Debug|x64.Build.0 = Debug|x64
+		{739B8B35-BE8B-473A-A991-182B5290F5C2}.Release|x64.ActiveCfg = Release|x64
+		{739B8B35-BE8B-473A-A991-182B5290F5C2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69EE04A0-09C6-4C41-A3C7-89830FC5778F}
+	EndGlobalSection
+EndGlobal
